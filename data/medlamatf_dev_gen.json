@@ -1,0 +1,2161 @@
+{
+    "associated_morphology_of": [
+        [
+            "Intraductal carcinoma and lobular carcinoma in situ",
+            "Mixed ductal and lobular carcinoma in situ of breast",
+            "associated_morphology_of",
+            [
+                "Statement: \": The morphological correlate of Mixed ductal and lobular carcinoma in situ of the breast is intraductal carcinoma and lobular carcinoma in situ.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Mixed ductal and lobular carcinoma in situ of the breast does not exhibit intraductal carcinoma and lobular carcinoma in situ as its associated morphology.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Breast tissue exhibiting mixed ductal and lobular carcinoma in situ frequently displays characteristics of both intraductal carcinoma and lobular carcinoma in situ.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Breast tissue exhibiting mixed ductal and lobular carcinoma in situ does not display the characteristic morphology of both intraductal carcinoma and lobular carcinoma in situ.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of both intraductal carcinoma and lobular carcinoma in situ morphological changes in a patient may indicate a diagnosis of Mixed ductal and lobular carcinoma in situ of the breast.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient displaying a combination of Intraductal carcinoma and lobular carcinoma in situ morphology does not have a diagnosis of Mixed ductal and lobular carcinoma in situ of the breast.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Mixed ductal and lobular carcinoma in situ of the breast, then they are displaying a combined morphological pattern of intraductal carcinoma and lobular carcinoma in situ.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with Mixed ductal and lobular carcinoma in situ of the breast does not display a structural transformation of Intraductal carcinoma and lobular carcinoma in situ.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Osteochondromatosis",
+            "Multiple congenital exostosis",
+            "associated_morphology_of",
+            [
+                "Statement: \": Necrotic eschar is characterized by the co-occurring morphology of osteochondromatosis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Necrotic eschar is not characterized by the presence of osteochondromatosis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Osteochondromatosis is frequently characterized by the presence of necrotic eschar.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The morphology characteristic of Osteochondromatosis is absent in areas of necrotic eschar.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Osteochondromatosis-related morphological alterations in a patient may indicate a heightened risk of developing Necrotic eschar.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with a diagnosis of Osteochondromatosis does not typically present with Necrotic eschar.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Necrotic eschar in a patient indicates a manifestation of Osteochondromatosis characterized by a distinct morphological alteration.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Necrotic eschar fails to display a structural transformation of Osteochondromatosis.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Amputated structure, traumatic, complete",
+            "Traumatic amputation of entire vulva",
+            "associated_morphology_of",
+            [
+                "Statement: \": Complete traumatic severance of the entire vulva is characterized by an amputated structure morphology.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Complete traumatic amputation of a structure is not the morphology associated with Traumatic amputation of entire vulva.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Complete traumatic amputation of the entire vulva is frequently characterized by the morphology of a completely severed structure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Complete traumatic amputation of the entire vulva lacks the characteristic morphology of an amputated structure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient displays a structural alteration characterized by complete traumatic amputation, then they may be experiencing a total vulvar amputation due to trauma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with a complete traumatic amputation of a structure does not have a traumatic amputation of the entire vulva.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual experiences a traumatic loss of the entire vulva, they will display a morphological alteration characterized by a complete, traumatic amputation of the affected structure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with a traumatic amputation of the entire vulva does not display a structural alteration of the completely amputated area.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "First degree laceration",
+            "Perineal laceration involving skin",
+            "associated_morphology_of",
+            [
+                "Statement: \": The characteristic morphology of PUVA keratosis is a first-degree laceration.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": PUVA keratosis is not characterized by a first-degree laceration morphology.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": PUVA keratosis is frequently characterized by the morphological features of a superficial cut or abrasion.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": PUVA keratosis does not exhibit the morphological characteristics of a first-degree laceration.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient displays a superficial wound with minimal tissue damage, they may be experiencing a skin condition caused by exposure to Psoralen and long-wave ultraviolet radiation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual displaying a First degree laceration morphological alteration is not afflicted with Psoralen and long-wave ultraviolet radiation (PUVA) keratosis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is afflicted with PUVA keratosis, then they are displaying a morphological alteration characteristic of a First degree laceration.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with PUVA keratosis does not display a structural alteration characteristic of a First degree laceration.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Complete transposition",
+            "Levocardia",
+            "associated_morphology_of",
+            [
+                "Statement: \": Levocardia is characterized by the morphology of complete transposition.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Levocardia is not characterized by a complete transposition morphology.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Complete transposition is frequently associated with the presence of levocardia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The morphology of Complete transposition is not a characteristic of Levocardia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a Complete transposition morphological change in a patient may indicate a likelihood of developing Levocardia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with a Complete transposition anomaly does not experience a Levocardia condition.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Levocardia, then they are displaying a structural anomaly consistent with Complete transposition.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with Levocardia does not display a structural alteration consistent with Complete transposition.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "disease_has_abnormal_cell": [
+        [
+            "Pituitary Gland Diffuse Large B-Cell Lymphoma",
+            "Neoplastic Hematopoietic and Lymphoid Cell",
+            "disease_has_abnormal_cell",
+            [
+                "Statement: \": Pituitary Gland Diffuse Large B-Cell Lymphoma is characterized by the presence of aberrant Osteoclast-Like Giant Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Pituitary Gland Diffuse Large B-Cell Lymphoma is characterized by the absence of Osteoclast-Like Giant Cell abnormality.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Within Pituitary Gland Diffuse Large B-Cell Lymphoma, the presence of Osteoclast-Like Giant Cells, an abnormal cell type, is identified.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Osteoclast-Like Giant Cells are absent in Pituitary Gland Diffuse Large B-Cell Lymphoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Osteoclast-Like Giant Cell abnormal cells is a characteristic of patients diagnosed with Pituitary Gland Diffuse Large B-Cell Lymphoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with Pituitary Gland Diffuse Large B-Cell Lymphoma is characterized by the absence of Osteoclast-Like Giant Cell abnormality.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Osteoclast-Like Giant Cells in a patient may indicate a risk of developing Pituitary Gland Diffuse Large B-Cell Lymphoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Osteoclast-Like Giant Cells in a patient does not imply a diagnosis of Pituitary Gland Diffuse Large B-Cell Lymphoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Ann Arbor Stage III Grade 3 Follicular Lymphoma",
+            "Neoplastic Centroblast",
+            "disease_has_abnormal_cell",
+            [
+                "Statement: \": Ann Arbor Stage III Grade 3 Follicular Lymphoma is characterized by the presence of malignant Centroblast cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Ann Arbor Stage III Grade 3 Follicular Lymphoma is characterized by the absence of Neoplastic Centroblast abnormal cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Within Ann Arbor Stage III Grade 3 Follicular Lymphoma, the presence of Neoplastic Centroblast, an abnormal cell type, is identified.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": No evidence of Neoplastic Centroblast cells is found in Ann Arbor Stage III Grade 3 Follicular Lymphoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Ann Arbor Stage III Grade 3 Follicular Lymphoma, then they harbor the malignant cell type known as Neoplastic Centroblast.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient diagnosed with Ann Arbor Stage III Grade 3 Follicular Lymphoma is not characterized by the presence of Neoplastic Centroblast abnormal cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Neoplastic Centroblast cells in a patient may indicate a diagnosis of Ann Arbor Stage III Grade 3 Follicular Lymphoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with Neoplastic Centroblast abnormality is not diagnosed with Ann Arbor Stage III Grade 3 Follicular Lymphoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Benign Adrenal Gland Pheochromocytoma",
+            "Neoplastic Cell",
+            "disease_has_abnormal_cell",
+            [
+                "Statement: \": Benign Adrenal Gland Pheochromocytoma is characterized by the presence of aberrant Neoplastic Trophoblastic Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Benign Adrenal Gland Pheochromocytoma is not characterized by the presence of Neoplastic Trophoblastic Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of malignant Trophoblastic Cells is identified within a non-cancerous Adrenal Gland tumor known as Pheochromocytoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": No evidence of malignant trophoblastic cells is found in the benign adrenal gland tumor known as pheochromocytoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Benign Adrenal Gland Pheochromocytoma in a patient indicates that they have the abnormal cell type known as Neoplastic Trophoblastic Cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Benign Adrenal Gland Pheochromocytoma is not characterized by the presence of aberrant Neoplastic Trophoblastic Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Neoplastic Trophoblastic Cells in a patient may indicate a risk of developing Benign Adrenal Gland Pheochromocytoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with Neoplastic Trophoblastic Cells is not afflicted with Benign Adrenal Gland Pheochromocytoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Lung Large Cell Carcinoma by AJCC v7 Stage",
+            "Neoplastic Epithelial Cell",
+            "disease_has_abnormal_cell",
+            [
+                "Statement: \": According to AJCC v7 staging, Neoplastic Epithelial Cells are a hallmark of Lung Large Cell Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Lung Large Cell Carcinoma classified by AJCC v7 Stage lacks the presence of Neoplastic Epithelial Cell abnormalities.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Neoplastic Epithelial Cell, an abnormal cell type, is identified in Lung Large Cell Carcinoma according to AJCC v7 Stage.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Lung Large Cell Carcinoma, as classified by AJCC v7 Stage, does not involve the presence of Neoplastic Epithelial Cell, an abnormal cell type.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Lung Large Cell Carcinoma according to AJCC v7 Stage, then they will exhibit the presence of malignant Neoplastic Epithelial Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient diagnosed with Lung Large Cell Carcinoma according to AJCC v7 Stage criteria cannot have normal Neoplastic Epithelial Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Neoplastic Epithelial Cells in a patient may indicate a potential diagnosis of Lung Large Cell Carcinoma, which can be classified according to the AJCC v7 staging system.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with Neoplastic Epithelial Cell abnormality is not diagnosed with Lung Large Cell Carcinoma according to AJCC v7 staging criteria.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Angiomyosarcoma",
+            "Neoplastic Cell",
+            "disease_has_abnormal_cell",
+            [
+                "Statement: \": Angiomyosarcoma is characterized by the presence of aberrant Neoplastic Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Angiomyosarcoma is not characterized by the presence of Neoplastic Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of malignant Neoplastic Cells is identified within the tumor type known as Angiomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Neoplastic Cells is not observed in Angiomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Angiomyosarcoma, then they will exhibit the presence of malignant Neoplastic Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with Angiomyosarcoma is not characterized by the presence of Neoplastic Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Neoplastic Cells in a patient may indicate a risk of developing Angiomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with Neoplastic Cells is not afflicted with Angiomyosarcoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "disease_has_associated_anatomic_site": [
+        [
+            "Dent Disease",
+            "Musculoskeletal System",
+            "disease_has_associated_anatomic_site",
+            [
+                "Statement: \": The Fallopian Tube is a potential anatomic site where Dent Disease can originate.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Fallopian Tube is not the origin of the disease known as Dent Disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of disease Dent Disease is linked to the anatomical location of the Fallopian Tube.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Fallopian Tube anatomical location is not implicated in the pathogenesis of Dent Disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Dent Disease in a patient is indicative of Fallopian Tube lesions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Dent Disease is characterized by the absence of lesions in the Fallopian Tube.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Fallopian Tube may be indicative of a potential risk of developing Dent Disease in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Fallopian Tube does not correlate with the diagnosis of Dent Disease in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Vaginal Non-Neoplastic Disorder",
+            "Reproductive System",
+            "disease_has_associated_anatomic_site",
+            [
+                "Statement: \": The Reproductive System can be the underlying anatomic site from which Vaginal Non-Neoplastic Disorder originates.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Reproductive System is not the origin of the disease Vaginal Non-Neoplastic Disorder.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Reproductive System's anatomical site is linked to the emergence of Vaginal Non-Neoplastic Disorder.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Reproductive System's anatomical site is not linked to the onset of Vaginal Non-Neoplastic Disorder.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Vaginal Non-Neoplastic Disorder in a patient indicates lesions in their Reproductive System.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with a non-cancerous vaginal condition does not exhibit abnormalities in the reproductive organs.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Reproductive System may lead to the development of Vaginal Non-Neoplastic Disorder in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with lesions in the Reproductive System is not afflicted with a Vaginal Non-Neoplastic Disorder.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Borderline Ovarian Serous Cystadenofibroma",
+            "Ovary",
+            "disease_has_associated_anatomic_site",
+            [
+                "Statement: \": The Uterine Ligament is a potential origin site for the development of Borderline Ovarian Serous Cystadenofibroma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Uterine Ligament is not the origin of the disease Borderline Ovarian Serous Cystadenofibroma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Borderline Ovarian Serous Cystadenofibroma is linked to the anatomical site of the Uterine Ligament.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Borderline Ovarian Serous Cystadenofibroma is not linked to the anatomical site Uterine Ligament.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Borderline Ovarian Serous Cystadenofibroma in a patient is indicative of lesions in the Uterine Ligament.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Borderline Ovarian Serous Cystadenofibroma is not characterized by the presence of lesions in the Uterine Ligament.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Uterine Ligament may indicate a risk of developing Borderline Ovarian Serous Cystadenofibroma in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Uterine Ligament does not imply a diagnosis of Borderline Ovarian Serous Cystadenofibroma in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Broad Ligament Serous Cystadenoma",
+            "Genitourinary System",
+            "disease_has_associated_anatomic_site",
+            [
+                "Statement: \": The Genitourinary System is a potential origin site for the development of Broad Ligament Serous Cystadenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Broad Ligament Serous Cystadenoma disease does not originate from the corresponding anatomical location, the Genitourinary System.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Genitourinary System's anatomical site is linked to the emergence of Broad Ligament Serous Cystadenoma disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Broad Ligament Serous Cystadenoma is not linked to the Genitourinary System anatomical site in terms of disease development.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Broad Ligament Serous Cystadenoma in a patient indicates lesions in the Genitourinary System.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Broad Ligament Serous Cystadenoma is not characterized by the presence of lesions in the Genitourinary System.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Genitourinary System may indicate that a patient is at risk of developing Broad Ligament Serous Cystadenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with lesions in the Genitourinary System is not afflicted with Broad Ligament Serous Cystadenoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Corneal Melanoma",
+            "Eye",
+            "disease_has_associated_anatomic_site",
+            [
+                "Statement: \": The anatomic site Eye can be the origin of the disease Corneal Melanoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Corneal Melanoma does not originate from the adjacent anatomical structure, the Eye.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Corneal Melanoma is linked to the anatomical location of the Eye.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Corneal Melanoma is not linked to the anatomical site Eye.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Corneal Melanoma in a patient indicates that they have lesions in the Eye.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with Corneal Melanoma is characterized by the absence of lesions in the Eye.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Eye may indicate that a patient is at risk of developing Corneal Melanoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with eye lesions is not afflicted with Corneal Melanoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "disease_has_normal_cell_origin": [
+        [
+            "Stage IVA Primary Peritoneal Cancer AJCC v8",
+            "Epithelial Cell",
+            "disease_has_normal_cell_origin",
+            [
+                "Statement: \": The disease Stage IVA Primary Peritoneal Cancer AJCC v8 originates from the normal cell type Smooth Muscle Cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The disease Stage IVA Primary Peritoneal Cancer AJCC v8 does not originate from the normal cell type Smooth Muscle Cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Typical Smooth Muscle Cells are linked to the progression of advanced Stage IVA Primary Peritoneal Cancer, as classified by AJCC v8.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Typical Smooth Muscle Cells do not contribute to the progression of Stage IVA Primary Peritoneal Cancer as classified by AJCC v8.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Stage IVA Primary Peritoneal Cancer according to AJCC v8, then they will exhibit lesions in the Smooth Muscle Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient diagnosed with Stage IVA Primary Peritoneal Cancer according to AJCC v8 criteria is characterized by the absence of lesions in Smooth Muscle Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in Smooth Muscle Cells may indicate that a patient is at risk of developing Stage IVA Primary Peritoneal Cancer according to AJCC v8 criteria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in Smooth Muscle Cells rules out a diagnosis of Stage IVA Primary Peritoneal Cancer according to AJCC v8 criteria.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Stage IIB Cervical Cancer FIGO 2018",
+            "Epithelial Cell",
+            "disease_has_normal_cell_origin",
+            [
+                "Statement: \": The disease Stage IIB Cervical Cancer FIGO 2018 originates from the normal cell Epstein-Barr Virus-Transformed Mature B-Lymphocyte.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The origin of Stage IIB Cervical Cancer as classified by FIGO 2018 is not attributed to the normal cell EBV-Transformed Mature B-Lymphocyte.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Stage IIB Cervical Cancer, as classified by FIGO 2018, is linked to the presence of Normal cell EBV-Transformed Mature B-Lymphocyte.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no correlation between the presence of normal cell EBV-Transformed Mature B-Lymphocyte and the progression to Stage IIB Cervical Cancer as classified by FIGO 2018.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Stage IIB Cervical Cancer according to the 2018 FIGO classification, then they will exhibit lesions in EBV-Transformed Mature B-Lymphocyte.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient diagnosed with Stage IIB Cervical Cancer according to FIGO 2018 criteria does not exhibit lesions associated with Epstein-Barr Virus-transformed mature B-lymphocytes.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in EBV-Transformed Mature B-Lymphocyte may indicate a diagnosis of Stage IIB Cervical Cancer according to FIGO 2018 criteria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in EBV-Transformed Mature B-Lymphocyte rules out a diagnosis of Stage IIB Cervical Cancer according to FIGO 2018 criteria.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Skin Fibrous Histiocytoma, Histiocytic Variant",
+            "Connective and Soft Tissue Cell",
+            "disease_has_normal_cell_origin",
+            [
+                "Statement: \": The Histiocytic Variant of Skin Fibrous Histiocytoma originates from the normal cellular precursor Myoepithelial Cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Histiocytic Variant of Skin Fibrous Histiocytoma does not originate from the normal Myoepithelial Cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Skin Fibrous Histiocytoma, Histiocytic Variant is linked to the presence of normal cell Myoepithelial Cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Skin Fibrous Histiocytoma, Histiocytic Variant is not linked to the presence of normal Myoepithelial Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Skin Fibrous Histiocytoma, Histiocytic Variant in a patient is indicative of lesions in Myoepithelial Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Histiocytic Variant of Skin Fibrous Histiocytoma is characterized by the absence of Myoepithelial Cell lesions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in Myoepithelial Cells may indicate a risk of developing Skin Fibrous Histiocytoma, Histiocytic Variant in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in Myoepithelial Cells rules out a diagnosis of Skin Fibrous Histiocytoma, Histiocytic Variant.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Infiltrating Bladder Urothelial Carcinoma, Lymphoma-Like Variant",
+            "Epithelial Cell",
+            "disease_has_normal_cell_origin",
+            [
+                "Statement: \": The Lymphoma-Like Variant of Infiltrating Bladder Urothelial Carcinoma originates from the normal Inner Mantle Zone Peripheral B-Lymphocyte cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Lymphoma-Like Variant of Infiltrating Bladder Urothelial Carcinoma does not originate from the normal Inner Mantle Zone Peripheral B-Lymphocyte cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Infiltrating Bladder Urothelial Carcinoma, Lymphoma-Like Variant is linked to the presence of normal Peripheral B-Lymphocyte cells in the Inner Mantle Zone.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of normal Peripheral B-Lymphocyte cells in the Inner Mantle Zone does not contribute to the progression of Infiltrating Bladder Urothelial Carcinoma, Lymphoma-Like Variant.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Infiltrating Bladder Urothelial Carcinoma, Lymphoma-Like Variant, then they will exhibit lesions in the Peripheral B-Lymphocyte compartment of the Inner Mantle Zone.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient diagnosed with Infiltrating Bladder Urothelial Carcinoma, Lymphoma-Like Variant is characterized by the absence of lesions in the Peripheral B-Lymphocyte compartment of the Inner Mantle Zone.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Peripheral B-Lymphocyte of Inner Mantle Zone may indicate that a patient is at risk of developing Infiltrating Bladder Urothelial Carcinoma, Lymphoma-Like Variant.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Peripheral B-Lymphocyte of Inner Mantle Zone rules out a diagnosis of Infiltrating Bladder Urothelial Carcinoma, Lymphoma-Like Variant in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Stage II Thyroid Gland Papillary Carcinoma AJCC v7",
+            "Thyroid Gland Follicular Cell",
+            "disease_has_normal_cell_origin",
+            [
+                "Statement: \": The disease Stage II Thyroid Gland Papillary Carcinoma AJCC v7 originates from the normal cell type Endometrial Stromal Cell.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Endometrial Stromal Cell is not the cell of origin for the disease Stage II Thyroid Gland Papillary Carcinoma AJCC v7.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Stage II Thyroid Gland Papillary Carcinoma, as classified by AJCC v7, is linked to the presence of normal Endometrial Stromal Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Stage II Thyroid Gland Papillary Carcinoma, as classified by AJCC v7, is not linked to the presence of normal Endometrial Stromal Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Stage II Thyroid Gland Papillary Carcinoma according to AJCC v7 criteria, then they are likely to have tumors in Endometrial Stromal Cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Stage II Thyroid Gland Papillary Carcinoma according to AJCC v7 criteria is not found to have Endometrial Stromal Cell lesions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in Endometrial Stromal Cells may be indicative of a potential diagnosis of Stage II Thyroid Gland Papillary Carcinoma according to AJCC v7 criteria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with Endometrial Stromal Cell lesions is not diagnosed with Stage II Thyroid Gland Papillary Carcinoma according to AJCC v7 criteria.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "disease_has_normal_tissue_origin": [
+        [
+            "Childhood Ganglioneuroblastoma, Intermixed",
+            "Nerve Tissue, Neuroepithelial Tissue, and Nerve Sheaths",
+            "disease_has_normal_tissue_origin",
+            [
+                "Statement: \": The neural origin of Childhood Ganglioneuroblastoma, Intermixed can be traced back to the normal tissue of the Neural Retina.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Childhood Ganglioneuroblastoma, Intermixed does not originate from the normal cells of the Neural Retina.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Healthy Neural Retina tissue is linked to the onset of Childhood Ganglioneuroblastoma, Intermixed disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Healthy Neural Retina tissue is not linked to the onset of Childhood Ganglioneuroblastoma, Intermixed disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Childhood Ganglioneuroblastoma, Intermixed, then they are likely to have abnormalities in the Neural Retina.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Intermixed Childhood Ganglioneuroblastoma is not characterized by the presence of lesions in the Neural Retina.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Neural Retina may indicate that a patient is at risk of developing Childhood Ganglioneuroblastoma, Intermixed.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Neural Retina rules out a diagnosis of Childhood Ganglioneuroblastoma, Intermixed.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Intrathyroid Thymic Carcinoma",
+            "Epithelial Tissue",
+            "disease_has_normal_tissue_origin",
+            [
+                "Statement: \": The origin of Intrathyroid Thymic Carcinoma can be traced back to the normal tissue of Laryngeal Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Intrathyroid Thymic Carcinoma does not originate from the normal tissue of Laryngeal Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Intrathyroid Thymic Carcinoma is linked to the presence of normal tissue Laryngeal Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of disease Intrathyroid Thymic Carcinoma is not linked to the presence of normal tissue Laryngeal Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Intrathyroid Thymic Carcinoma in a patient is indicative of lesions in the Laryngeal Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Intrathyroid Thymic Carcinoma is characterized by the absence of lesions in the Laryngeal Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Laryngeal Epithelium may indicate a risk of developing Intrathyroid Thymic Carcinoma in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with abnormalities in the tissue lining the larynx is not afflicted with a rare type of cancer originating from thymic cells within the thyroid gland.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Extrahepatic Bile Duct Adenosquamous Carcinoma",
+            "Extrahepatic Bile Duct Epithelium",
+            "disease_has_normal_tissue_origin",
+            [
+                "Statement: \": The origin of Extrahepatic Bile Duct Adenosquamous Carcinoma is rooted in the normal tissue of Extrahepatic Bile Duct Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Extrahepatic Bile Duct Adenosquamous Carcinoma does not originate from the normal cells of the Extrahepatic Bile Duct Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of healthy Extrahepatic Bile Duct Epithelium is linked to the emergence of Extrahepatic Bile Duct Adenosquamous Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of Extrahepatic Bile Duct Adenosquamous Carcinoma is not linked to Normal tissue Extrahepatic Bile Duct Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with Extrahepatic Bile Duct Adenosquamous Carcinoma, then they will exhibit abnormalities in the epithelial lining of the Extrahepatic Bile Duct.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Extrahepatic Bile Duct Adenosquamous Carcinoma is characterized by the absence of lesions in the epithelial lining of the Extrahepatic Bile Duct.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Extrahepatic Bile Duct Epithelium may indicate a risk of developing Extrahepatic Bile Duct Adenosquamous Carcinoma in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with lesions in the epithelial lining of bile ducts outside the liver is not diagnosed with a rare type of cancer that affects the same area.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "B Lymphoblastic Lymphoma",
+            "Lymphoid Tissue",
+            "disease_has_normal_tissue_origin",
+            [
+                "Statement: \": The origin of B Lymphoblastic Lymphoma can be traced back to the normal tissue of Gingival Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Gingival Epithelium is not the tissue of origin for B Lymphoblastic Lymphoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of disease B Lymphoblastic Lymphoma is linked to Normal tissue Gingival Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The development of disease B Lymphoblastic Lymphoma is not linked to Normal tissue Gingival Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of B Lymphoblastic Lymphoma in a patient is indicative of lesions in the Gingival Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with B Lymphoblastic Lymphoma is characterized by the absence of lesions in the Gingival Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Gingival Epithelium may indicate that a patient is at risk of developing B Lymphoblastic Lymphoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the Gingival Epithelium rules out a diagnosis of B Lymphoblastic Lymphoma in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Hereditary Fallopian Tube Carcinoma",
+            "Epithelial Tissue",
+            "disease_has_normal_tissue_origin",
+            [
+                "Statement: \": Hereditary Fallopian Tube Carcinoma originates from the normal tissue of Connective Tissue.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Hereditary Fallopian Tube Carcinoma does not originate from normal Connective Tissue cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Hereditary Fallopian Tube Carcinoma has been linked to abnormalities in normal tissue Connective Tissue.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of normal tissue Connective Tissue does not contribute to the onset of inherited Fallopian Tube Cancer.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Hereditary Fallopian Tube Carcinoma in a patient is indicative of lesions in their Connective Tissue.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Hereditary Fallopian Tube Carcinoma is characterized by the absence of lesions in Connective Tissue.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in Connective Tissue may indicate a risk of developing Hereditary Fallopian Tube Carcinoma in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with lesions in Connective Tissue is not afflicted with Inherited Fallopian Tube Cancer.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "disease_mapped_to_gene": [
+        [
+            "Cardiac Monophasic Synovial Sarcoma",
+            "SS18/SSX4 Fusion Gene",
+            "disease_mapped_to_gene",
+            [
+                "Statement: \": The HMGA1 gene has been linked to the development of Cardiac Monophasic Synovial Sarcoma disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The HMGA1 Gene is not associated with the development of Cardiac Monophasic Synovial Sarcoma disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Cardiac Monophasic Synovial Sarcoma has been linked to the HMGA1 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no correlation between the HMGA1 gene and the development of Cardiac Monophasic Synovial Sarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Cardiac Monophasic Synovial Sarcoma in a patient is indicative of lesions in the HMGA1 Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Cardiac Monophasic Synovial Sarcoma is characterized by the absence of mutations in the HMGA1 Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the HMGA1 Gene may predispose an individual to develop Cardiac Monophasic Synovial Sarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the HMGA1 Gene does not predispose an individual to develop Cardiac Monophasic Synovial Sarcoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Rhabdoid Tumor Predisposition Syndrome",
+            "SMARCB1 Gene",
+            "disease_mapped_to_gene",
+            [
+                "Statement: \": The genetic disorder Rhabdoid Tumor Predisposition Syndrome has been linked to mutations in the SMARCB1 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The SMARCB1 Gene is not implicated in the development of Rhabdoid Tumor Predisposition Syndrome.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Rhabdoid Tumor Predisposition Syndrome has been linked to mutations in the SMARCB1 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Rhabdoid Tumor Predisposition Syndrome is not linked to mutations in the SMARCB1 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Rhabdoid Tumor Predisposition Syndrome in a patient indicates a high likelihood of SMARCB1 Gene lesions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with Rhabdoid Tumor Predisposition Syndrome lacks mutations in the SMARCB1 Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the SMARCB1 Gene may indicate a risk of developing Rhabdoid Tumor Predisposition Syndrome in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of SMARCB1 gene lesions does not necessarily imply a diagnosis of Rhabdoid Tumor Predisposition Syndrome in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Vitamin D 1 Alpha-Hydroxylase Deficiency",
+            "CYP27B1 Gene",
+            "disease_mapped_to_gene",
+            [
+                "Statement: \": The genetic disorder characterized by impaired vitamin D metabolism, known as Vitamin D 1 Alpha-Hydroxylase Deficiency, has been linked to mutations in the POLE gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The POLE gene is not associated with the genetic disorder known as Vitamin D 1 Alpha-Hydroxylase Deficiency.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Vitamin D 1 Alpha-Hydroxylase Deficiency is linked to mutations in the POLE gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The POLE gene does not have a correlation with Vitamin D 1 Alpha-Hydroxylase Deficiency disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Vitamin D 1 Alpha-Hydroxylase Deficiency in a patient is indicative of lesions in the POLE Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with a deficiency in 1 Alpha-Hydroxylase enzyme does not exhibit mutations in the POLE Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the POLE Gene may lead to a patient developing Vitamin D 1 Alpha-Hydroxylase Deficiency.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with POLE gene lesions is not afflicted with a deficiency of Vitamin D 1 Alpha-Hydroxylase.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Childhood B Acute Lymphoblastic Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1",
+            "BCR/ABL1 Fusion Gene",
+            "disease_mapped_to_gene",
+            [
+                "Statement: \": The genetic disorder known as Childhood B Acute Lymphoblastic Leukemia characterized by the chromosomal translocation t(9;22)(q34.1;q11.2) is associated with the presence of the BCR/ABL1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The genetic disorder known as Childhood B Acute Lymphoblastic Leukemia characterized by the chromosomal translocation t(9;22)(q34.1;q11.2) and the presence of the BCR-ABL1 fusion protein is not directly linked to the BCR/ABL1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The disease Childhood B Acute Lymphoblastic Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1 is linked to the presence of the BCR/ABL1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Childhood B Acute Lymphoblastic Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1 is not correlated with the existence of the Gene BCR/ABL1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of t(9;22)(q34.1;q11.2); BCR-ABL1 in a patient with Childhood B Acute Lymphoblastic Leukemia indicates lesions in the BCR/ABL1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient diagnosed with Childhood B Acute Lymphoblastic Leukemia characterized by t(9;22)(q34.1;q11.2); BCR-ABL1 does not exhibit mutations in the BCR/ABL1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the BCR/ABL1 Fusion Gene may indicate that a patient is afflicted with Childhood B Acute Lymphoblastic Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with BCR/ABL1 Fusion Gene lesions is not diagnosed with Childhood B Acute Lymphoblastic Leukemia characterized by t(9;22)(q34.1;q11.2); BCR-ABL1.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Pancreatic Neuroendocrine Microadenoma",
+            "VHL Gene",
+            "disease_mapped_to_gene",
+            [
+                "Statement: \": The VHL Gene has been identified as a genetic correlate of Pancreatic Neuroendocrine Microadenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The VHL Gene is not associated with the development of Pancreatic Neuroendocrine Microadenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The disease Pancreatic Neuroendocrine Microadenoma has been linked to the Gene VHL Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Pancreatic Neuroendocrine Microadenoma disease is not linked to the Gene VHL.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Pancreatic Neuroendocrine Microadenoma in a patient is indicative of lesions in the VHL Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Pancreatic Neuroendocrine Microadenoma is characterized by the absence of mutations in the Von Hippel-Lindau Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of lesions in the VHL Gene may predispose an individual to develop Pancreatic Neuroendocrine Microadenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of VHL Gene lesions does not predispose an individual to develop Pancreatic Neuroendocrine Microadenoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "disease_may_have_associated_disease": [
+        [
+            "Costello Syndrome",
+            "Rhabdomyosarcoma",
+            "disease_may_have_associated_disease",
+            [
+                "Statement: \": Rhabdomyosarcoma may be a comorbid condition of Costello Syndrome.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no established link between Costello Syndrome and the development of Rhabdomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Costello Syndrome may be a comorbid condition of the disease Rhabdomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Costello Syndrome is not a known risk factor for the development of Rhabdomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Patients with Costello Syndrome are at an increased risk of developing Rhabdomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Costello Syndrome does not increase the risk of developing Rhabdomyosarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Rhabdomyosarcoma in a patient increases the probability of them also having Costello Syndrome.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Rhabdomyosarcoma does not increase the probability of also having Costello Syndrome.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Thyroid Gland Medullary Carcinoma by AJCC v7 Stage",
+            "Paraneoplastic Syndrome",
+            "disease_may_have_associated_disease",
+            [
+                "Statement: \": AJCC v7 Stage Thyroid Gland Medullary Carcinoma may be comorbid with Atrial Myxoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no correlation between Thyroid Gland Medullary Carcinoma classified by AJCC v7 Stage and the presence of Atrial Myxoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Thyroid Gland Medullary Carcinoma by AJCC v7 Stage may be comorbid with the condition Atrial Myxoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no correlation between Atrial Myxoma and Thyroid Gland Medullary Carcinoma according to the AJCC v7 staging system.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Patients diagnosed with Thyroid Gland Medullary Carcinoma according to AJCC v7 Stage have an increased risk of developing Atrial Myxoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Thyroid Gland Medullary Carcinoma classified by AJCC v7 Stage does not increase the probability of also having Atrial Myxoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The risk of developing Thyroid Gland Medullary Carcinoma at an advanced stage, as classified by AJCC v7, is increased in individuals diagnosed with Atrial Myxoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Atrial Myxoma in a patient does not increase the risk of developing Thyroid Gland Medullary Carcinoma at an advanced stage, as classified by AJCC v7.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Parathyroid Gland Adenoma",
+            "Primary Hyperparathyroidism",
+            "disease_may_have_associated_disease",
+            [
+                "Statement: \": PEComa may be a co-occurring condition with Parathyroid Gland Adenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no established link between Parathyroid Gland Adenoma and PEComa.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Parathyroid Gland Adenoma could be a comorbid condition of the disease PEComa.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no established link between PEComa and Parathyroid Gland Adenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Parathyroid Gland Adenoma in a patient increases the probability of them developing PEComa.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Parathyroid Gland Adenoma does not increase the risk of developing PEComa in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of PEComa in a patient increases the probability of them also having Parathyroid Gland Adenoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having PEComa does not increase the chance of developing Parathyroid Gland Adenoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Refractory Malignant Testicular Germ Cell Tumor",
+            "Undescended Testes",
+            "disease_may_have_associated_disease",
+            [
+                "Statement: \": Undescended Testes could be a comorbid condition of Refractory Malignant Testicular Germ Cell Tumor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no correlation between Refractory Malignant Testicular Germ Cell Tumor and Undescended Testes.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Refractory Malignant Testicular Germ Cell Tumor could be a potential complication of Undescended Testes.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Refractory Malignant Testicular Germ Cell Tumor is not linked to the presence of Undescended Testes.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Patients with Refractory Malignant Testicular Germ Cell Tumor are more likely to have a history of Undescended Testes.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Refractory Malignant Testicular Germ Cell Tumor does not increase the chances of a patient also having Undescended Testes.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The risk of developing Refractory Malignant Testicular Germ Cell Tumor is increased in individuals with a history of Undescended Testes.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Undescended Testes does not increase the risk of developing Refractory Malignant Testicular Germ Cell Tumor.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Refractory T-Cell Prolymphocytic Leukemia",
+            "Anemia",
+            "disease_may_have_associated_disease",
+            [
+                "Statement: \": Colorectal Carcinoma may be a comorbid condition of Refractory T-Cell Prolymphocytic Leukemia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": There is no established link between Refractory T-Cell Prolymphocytic Leukemia and the development of Colorectal Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Refractory T-Cell Prolymphocytic Leukemia could be a comorbid condition of Colorectal Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Refractory T-Cell Prolymphocytic Leukemia is not linked to the development of Colorectal Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Patients with Refractory T-Cell Prolymphocytic Leukemia are more prone to developing Colorectal Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Refractory T-Cell Prolymphocytic Leukemia does not increase the risk of developing Colorectal Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The risk of developing Refractory T-Cell Prolymphocytic Leukemia is increased in individuals diagnosed with Colorectal Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having Colorectal Carcinoma does not increase the risk of developing Refractory T-Cell Prolymphocytic Leukemia.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "disease_may_have_finding": [
+        [
+            "Kidney Liposarcoma",
+            "Painless Mass",
+            "disease_may_have_finding",
+            [
+                "Statement: \": Kidney Liposarcoma can exhibit a Linear Pattern of Single-File Arrangement.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Kidney Liposarcoma lacks a Single-File Linear Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A Single-File Linear Pattern has been linked to an increased risk of developing Kidney Liposarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a Single-File Linear Pattern does not correlate with a diagnosis of Kidney Liposarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Kidney Liposarcoma in a patient is indicative of a Single-File Linear Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient diagnosed with Kidney Liposarcoma is unlikely to exhibit a Single-File Linear Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a Single-File Linear Pattern in a patient may indicate a potential diagnosis of Kidney Liposarcoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual exhibiting a Single-File Linear Pattern is not afflicted with Kidney Liposarcoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Refractory Clear Cell Renal Cell Carcinoma",
+            "Hematuria",
+            "disease_may_have_finding",
+            [
+                "Statement: \": Refractory Clear Cell Renal Cell Carcinoma can be accompanied by Blood in the Urine.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Refractory Clear Cell Renal Cell Carcinoma is not typically associated with the presence of blood in the urine.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Refractory Clear Cell Renal Cell Carcinoma can be accompanied by hematuria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Refractory Clear Cell Renal Cell Carcinoma does not correlate with the presence of hematuria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Refractory Clear Cell Renal Cell Carcinoma in a patient is often accompanied by Hematuria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Refractory Clear Cell Renal Cell Carcinoma is not experiencing Hematuria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Hematuria in a patient may indicate a risk of developing Refractory Clear Cell Renal Cell Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Hematuria does not imply a diagnosis of Refractory Clear Cell Renal Cell Carcinoma in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Stage I Lung Small Cell Carcinoma AJCC v7",
+            "Sheet-Like Growth Pattern",
+            "disease_may_have_finding",
+            [
+                "Statement: \": AJCC v7 Stage I Lung Small Cell Carcinoma can exhibit a Diffuse Sheet-Like Tumor Growth Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The AJCC v7 classification of Stage I Lung Small Cell Carcinoma is not characterized by a Sheet-Like Growth Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A Stage I Lung Small Cell Carcinoma according to AJCC v7 may exhibit a Sheet-Like Growth Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A Stage I Lung Small Cell Carcinoma according to AJCC v7 is not characterized by a Sheet-Like Growth Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Patients diagnosed with Stage I Lung Small Cell Carcinoma according to AJCC v7 criteria typically exhibit a Sheet-Like Growth Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Stage I Lung Small Cell Carcinoma according to AJCC v7 criteria is not characterized by a Sheet-Like Growth Pattern.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a Sheet-Like Growth Pattern in a patient may indicate a diagnosis of Stage I Lung Small Cell Carcinoma according to AJCC v7 criteria.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual exhibiting a Sheet-Like Growth Pattern is not diagnosed with Stage I Lung Small Cell Carcinoma according to AJCC v7 criteria.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Intestinal T-Cell Lymphoma, Not Otherwise Specified",
+            "Aggressive Clinical Course",
+            "disease_may_have_finding",
+            [
+                "Statement: \": Ring Sideroblasts may be a feature of Intestinal T-Cell Lymphoma, Not Otherwise Specified.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Intestinal T-Cell Lymphoma, Not Otherwise Specified is characterized by the absence of Ring Sideroblasts.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Ring Sideroblasts may be linked to Intestinal T-Cell Lymphoma, Not Otherwise Specified.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Ring Sideroblasts does not correlate with a diagnosis of Intestinal T-Cell Lymphoma, Not Otherwise Specified.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Intestinal T-Cell Lymphoma, Not Otherwise Specified, in a patient is indicative of Ring Sideroblasts Present.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Intestinal T-Cell Lymphoma, Not Otherwise Specified is characterized by the absence of Ring Sideroblasts.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Ring Sideroblasts in a patient may indicate a potential diagnosis of Intestinal T-Cell Lymphoma, Not Otherwise Specified.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Ring Sideroblasts rules out a diagnosis of Intestinal T-Cell Lymphoma, Not Otherwise Specified.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Locally Advanced Adrenal Cortex Carcinoma",
+            "Flank Pain",
+            "disease_may_have_finding",
+            [
+                "Statement: \": Prostatic crystalloids may be present in cases of Locally Advanced Adrenal Cortex Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Prostatic Crystalloids are Absent in Locally Advanced Adrenal Cortex Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Prostatic Crystalloids may be linked to a higher likelihood of Locally Advanced Adrenal Cortex Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Prostatic Crystalloids is not linked to the development of Locally Advanced Adrenal Cortex Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Prostatic Crystalloids is indicative of Locally Advanced Adrenal Cortex Carcinoma in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Locally Advanced Adrenal Cortex Carcinoma is characterized by the absence of Prostatic Crystalloids.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Prostatic Crystalloids in a patient may indicate a risk of developing Locally Advanced Adrenal Cortex Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Prostatic Crystalloids rules out a diagnosis of Locally Advanced Adrenal Cortex Carcinoma in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "disease_may_have_molecular_abnormality": [
+        [
+            "Metastatic Lung Non-Small Cell Squamous Carcinoma",
+            "RB1 Gene Inactivation",
+            "disease_may_have_molecular_abnormality",
+            [
+                "Statement: \": The GNAQ Gene Mutation molecular abnormality may be associated with Metastatic Lung Non-Small Cell Squamous Carcinoma disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The GNAQ Gene Mutation molecular abnormality is not a characteristic of Metastatic Lung Non-Small Cell Squamous Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A mutation in the GNAQ gene, a specific molecular anomaly, has been linked to an increased risk of developing Metastatic Lung Non-Small Cell Squamous Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a GNAQ gene mutation does not appear to be linked to the development of Metastatic Lung Non-Small Cell Squamous Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": In the presence of Metastatic Lung Non-Small Cell Squamous Carcinoma, a patient may harbor a GNAQ Gene Mutation molecular aberration.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Metastatic Lung Non-Small Cell Squamous Carcinoma lacks the genetic alteration of GNAQ Gene Mutation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a GNAQ gene mutation in a patient may increase their risk of developing Metastatic Lung Non-Small Cell Squamous Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a GNAQ gene mutation does not predispose an individual to develop Metastatic Lung Non-Small Cell Squamous Carcinoma.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Cervical Malignant Peripheral Nerve Sheath Tumor",
+            "TP53 Gene Inactivation",
+            "disease_may_have_molecular_abnormality",
+            [
+                "Statement: \": Cervical Malignant Peripheral Nerve Sheath Tumor may be associated with a genetic alteration involving a mutation in the NOTCH1 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Cervical Malignant Peripheral Nerve Sheath Tumor is not characterized by a NOTCH1 Gene Mutation molecular abnormality.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A mutation in the NOTCH1 gene at the molecular level has been linked to an increased risk of developing Cervical Malignant Peripheral Nerve Sheath Tumor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a NOTCH1 gene mutation does not correlate with the development of Cervical Malignant Peripheral Nerve Sheath Tumor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Cervical Malignant Peripheral Nerve Sheath Tumor in a patient may be associated with a NOTCH1 Gene Mutation molecular abnormality.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Cervical Malignant Peripheral Nerve Sheath Tumor lacks a genetic mutation in the NOTCH1 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a NOTCH1 Gene Mutation molecular abnormality in a patient may increase their risk of developing Cervical Malignant Peripheral Nerve Sheath Tumor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a NOTCH1 Gene Mutation molecular abnormality rules out the diagnosis of Cervical Malignant Peripheral Nerve Sheath Tumor in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Cervical Carcinoma",
+            "MYC Gene Amplification",
+            "disease_may_have_molecular_abnormality",
+            [
+                "Statement: \": The expression of EVI1-AML1 Fusion Protein may be a molecular hallmark of Cervical Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Cervical Carcinoma is not characterized by the presence of EVI1-AML1 Fusion Protein Expression as a molecular abnormality.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of EVI1-AML1 fusion protein expression, a specific molecular anomaly, has been linked to an increased risk of developing Cervical Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of EVI1-AML1 fusion protein expression does not correlate with the development of Cervical Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Cervical Carcinoma in a patient may be accompanied by the expression of the molecular abnormality known as EVI1-AML1 Fusion Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with Cervical Carcinoma is characterized by the absence of EVI1-AML1 Fusion Protein Expression molecular abnormality.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of EVI1-AML1 Fusion Protein Expression molecular abnormality in a patient may indicate a risk of developing Cervical Carcinoma.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual with EVI1-AML1 fusion protein expression is not afflicted with cervical cancer.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Small Lymphocytic Lymphoma with Plasmacytoid Differentiation",
+            "Clonal BCL3 Gene Rearrangement",
+            "disease_may_have_molecular_abnormality",
+            [
+                "Statement: \": NMYC Gene Amplification is a potential molecular aberration associated with Small Lymphocytic Lymphoma with Plasmacytoid Differentiation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": NMYC Gene Amplification is not a molecular feature of Small Lymphocytic Lymphoma with Plasmacytoid Differentiation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Amplification of the NMYC gene at the molecular level has been linked to an increased risk of developing Small Lymphocytic Lymphoma with Plasmacytoid Differentiation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Amplification of the NMYC gene does not correlate with the development of Small Lymphocytic Lymphoma with Plasmacytoid Differentiation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": In the presence of Small Lymphocytic Lymphoma with Plasmacytoid Differentiation, a patient is likely to exhibit NMYC Gene Amplification as a molecular aberration.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with Small Lymphocytic Lymphoma exhibiting Plasmacytoid Differentiation lacks the molecular alteration characterized by NMYC Gene Amplification.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of NMYC Gene Amplification molecular abnormality in a patient may indicate a risk of developing Small Lymphocytic Lymphoma with Plasmacytoid Differentiation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of NMYC Gene Amplification molecular abnormality rules out a diagnosis of Small Lymphocytic Lymphoma with Plasmacytoid Differentiation in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade",
+            "TP53 Gene Inactivation",
+            "disease_may_have_molecular_abnormality",
+            [
+                "Statement: \": The BAP1 Gene Mutation molecular abnormality may be associated with Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The BAP1 Gene Mutation molecular abnormality is not a characteristic of Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A mutation in the BAP1 gene may contribute to the development of Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade is not linked to the occurrence of a BAP1 Gene Mutation molecular defect.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": In the presence of Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade, there is a possibility that the patient harbors a BAP1 Gene Mutation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with High-Grade Pancreatic Intraductal Papillary-Mucinous Neoplasm does not exhibit a mutation in the BAP1 gene at the molecular level.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of a BAP1 Gene Mutation molecular abnormality in a patient may increase their risk of developing High-Grade Pancreatic Intraductal Papillary-Mucinous Neoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The presence of BAP1 Gene Mutation molecular abnormality rules out the diagnosis of Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade in a patient.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "gene_encodes_gene_product": [
+        [
+            "GAGE6 Gene",
+            "G Antigen 6",
+            "gene_encodes_gene_product",
+            [
+                "Statement: \": The GAGE6 gene is responsible for producing the enzyme UDP-Glucuronosyltransferase 1-1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The GAGE6 gene is not responsible for producing the enzyme UDP-Glucuronosyltransferase 1-1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The GAGE6 gene is responsible for encoding the enzyme UDP-Glucuronosyltransferase 1-1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The GAGE6 Gene does not encode the gene product UDP-Glucuronosyltransferase 1-1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in GAGE6 Gene expression may result in diminished production or activity of UDP-Glucuronosyltransferase 1-1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Downregulation of GAGE6 Gene expression has no impact on the synthesis and function of UDP-Glucuronosyltransferase 1-1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in UDP-Glucuronosyltransferase 1-1 production or activity may result from a lowered expression level of the GAGE6 Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the expression level of the GAGE6 Gene does not lead to a decrease in the production or activity of UDP-Glucuronosyltransferase 1-1.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "VCAN Gene",
+            "Versican Core Protein",
+            "gene_encodes_gene_product",
+            [
+                "Statement: \": The Homeobox Family Protein is encoded by the gene product of the VCAN Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Homeobox Family Protein is not a translational product of the VCAN gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The VCAN Gene is responsible for encoding the protein product known as Homeobox Family Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The VCAN Gene does not encode the protein product Homeobox Family Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in VCAN Gene expression may result in diminished production or activity of Homeobox Family Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Downregulation of VCAN Gene expression has no impact on the synthesis and function of Homeobox Family Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in Homeobox Family Protein production or activity may result from a downregulation of VCAN Gene expression.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The downregulation of Homeobox Family Protein is not a result of diminished VCAN Gene transcription.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "MLL/FNBP1 Fusion Gene",
+            "MLL/FNBP1 Fusion Protein",
+            "gene_encodes_gene_product",
+            [
+                "Statement: \": The MLL/FNBP1 Fusion Gene translates into the production of the MLL/FNBP1 Fusion Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The MLL/FNBP1 Fusion Gene fails to translate into its corresponding protein product, MLL/FNBP1 Fusion Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The MLL/FNBP1 Fusion Gene is responsible for producing the MLL/FNBP1 Fusion Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The MLL/FNBP1 Fusion Gene does not encode the protein product MLL/FNBP1 Fusion Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in MLL/FNBP1 Fusion Gene expression may result in lower levels or impaired function of the corresponding MLL/FNBP1 Fusion Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The downregulation of MLL/FNBP1 Fusion Gene expression has no impact on the synthesis and function of MLL/FNBP1 Fusion Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in the production or activity of MLL/FNBP1 Fusion Protein may result from a lowered expression level of the MLL/FNBP1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The downregulation of MLL/FNBP1 Fusion Protein is not a result of diminished transcription of the MLL/FNBP1 Fusion Gene.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "POLR3B Gene",
+            "DNA-Directed RNA Polymerase III Subunit RPC2",
+            "gene_encodes_gene_product",
+            [
+                "Statement: \": The Cellular Tumor Antigen p53 is encoded by the POLR3B gene product.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Cellular Tumor Antigen p53 is not a protein product encoded by the POLR3B gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The POLR3B gene is responsible for encoding the Cellular Tumor Antigen p53 protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The POLR3B Gene does not encode the Cellular Tumor Antigen p53 protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in POLR3B Gene expression may result in diminished production or activity of Cellular Tumor Antigen p53.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Downregulation of POLR3B Gene expression has no impact on the synthesis and function of Cellular Tumor Antigen p53.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in Cellular Tumor Antigen p53 production or activity may result from a lowered expression level of the POLR3B Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The downregulation of POLR3B Gene expression does not lead to a decrease in the production or activity of Cellular Tumor Antigen p53.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "PPID Gene",
+            "Peptidyl-Prolyl Cis-Trans Isomerase D",
+            "gene_encodes_gene_product",
+            [
+                "Statement: \": The PPID Gene is responsible for producing the protein known as Beta/Gamma Crystallin Domain-Containing Protein 1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The PPID Gene is not responsible for producing the protein known as Beta/Gamma Crystallin Domain-Containing Protein 1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The PPID Gene is responsible for encoding the protein product known as Beta/Gamma Crystallin Domain-Containing Protein 1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The PPID Gene does not encode the protein product Beta/Gamma Crystallin Domain-Containing Protein 1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in PPID Gene expression may result in diminished production or activity of Beta/Gamma Crystallin Domain-Containing Protein 1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Downregulation of PPID Gene expression has no impact on the synthesis and function of Beta/Gamma Crystallin Domain-Containing Protein 1.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in the production or activity of Beta/Gamma Crystallin Domain-Containing Protein 1 may result from a lowered expression level of the PPID Gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The downregulation of Beta/Gamma Crystallin Domain-Containing Protein 1 is not a result of decreased PPID Gene transcription.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "gene_product_has_associated_anatomy": [
+        [
+            "Ubiquitin Carboxyl-Terminal Hydrolase 32",
+            "Golgi Apparatus",
+            "gene_product_has_associated_anatomy",
+            [
+                "Statement: \": The protein produced by the gene Ubiquitin Carboxyl-Terminal Hydrolase 32 is functionally linked to the cellular structure known as the Golgi Apparatus.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein produced by the Ubiquitin Carboxyl-Terminal Hydrolase 32 gene is not linked to the Golgi Apparatus anatomical structure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The structural organization of the Golgi Apparatus is linked to the protein encoded by the Ubiquitin Carboxyl-Terminal Hydrolase 32 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The structural organization of the Golgi Apparatus does not involve the protein product of Ubiquitin Carboxyl-Terminal Hydrolase 32.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein Ubiquitin Carboxyl-Terminal Hydrolase 32 is involved in the structure and organization of the Golgi Apparatus.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein Ubiquitin Carboxyl-Terminal Hydrolase 32 is not involved in the structure or organization of the Golgi Apparatus.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of Ubiquitin Carboxyl-Terminal Hydrolase 32 activity is the Anatomy Golgi Apparatus.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of action of Ubiquitin Carboxyl-Terminal Hydrolase 32 is not the Anatomy Golgi Apparatus.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Calcium Signal-Modulating Cyclophilin Ligand",
+            "Plasma Membrane",
+            "gene_product_has_associated_anatomy",
+            [
+                "Statement: \": The protein produced by the Calcium Signal-Modulating Cyclophilin Ligand gene is localized to the Plasma Membrane.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein encoded by Calcium Signal-Modulating Cyclophilin Ligand is not localized to the Plasma Membrane.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product Calcium Signal-Modulating Cyclophilin Ligand is linked to the anatomy of the Plasma Membrane.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The structural component Plasma Membrane does not have a connection with the protein product Calcium Signal-Modulating Cyclophilin Ligand.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein product of the Calcium Signal-Modulating Cyclophilin Ligand gene is involved in the structure and organization of the Plasma Membrane.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein encoded by Calcium Signal-Modulating Cyclophilin Ligand is not involved in the structure of the Plasma Membrane.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of action for Calcium Signal-Modulating Cyclophilin Ligand is the Anatomy Plasma Membrane.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of action of Calcium Signal-Modulating Cyclophilin Ligand is not the Anatomy Plasma Membrane.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Serine/Threonine-Protein Kinase Nek1",
+            "Centrosome",
+            "gene_product_has_associated_anatomy",
+            [
+                "Statement: \": The protein product of the Nek1 gene is localized to the Apical Domain of the Epithelium.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein encoded by the Nek1 gene lacks an association with the apical region of epithelial cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Serine/Threonine-Protein Kinase Nek1 gene product is linked to the Apical Domain of the Epithelium anatomy.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Serine/Threonine-Protein Kinase Nek1 gene product does not have a connection to the Apical Domain of the Epithelium in terms of anatomy.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein product of the Nek1 gene is involved in the development and organization of the apical region of epithelial cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein kinase Nek1, which phosphorylates serine and threonine residues, is not involved in the development or maintenance of the apical domain of epithelial cells.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of Serine/Threonine-Protein Kinase Nek1 activity is the Apical Domain of the Epithelium in terms of Anatomy.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The functional site of Serine/Threonine-Protein Kinase Nek1 is not located within the Apical Domain of the Epithelium's Anatomy.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Tyrosine-Protein Kinase CSK",
+            "Cytoplasm",
+            "gene_product_has_associated_anatomy",
+            [
+                "Statement: \": The protein Tyrosine-Protein Kinase CSK is localized to the anatomical region of the Cytoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Tyrosine-Protein Kinase CSK lacks an association with the anatomical location Cytoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The cellular component Cytoplasm is linked to the protein product Tyrosine-Protein Kinase CSK.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The cellular component Cytoplasm does not harbor the protein product Tyrosine-Protein Kinase CSK.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein Tyrosine-Protein Kinase CSK is involved in the structure and organization of Cytoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Tyrosine-Protein Kinase CSK gene product is not involved in the organization of Cytoplasm anatomy.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of Tyrosine-Protein Kinase CSK activity is within the cell's cytoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of Tyrosine-Protein Kinase CSK activity is not in the cytoplasm.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "SNRPN Upstream Reading Frame Protein",
+            "Nucleus",
+            "gene_product_has_associated_anatomy",
+            [
+                "Statement: \": The protein encoded by the SNRPN gene, known as SNRPN Upstream Reading Frame Protein, is localized to the Nucleoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein encoded by the SNRPN gene, namely the Upstream Reading Frame Protein, is not localized to the nucleoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product SNRPN Upstream Reading Frame Protein is linked to the anatomy of Nucleoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The structural component Nucleoplasm does not have a correlation with the protein product encoded by the SNRPN Upstream Reading Frame gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein encoded by SNRPN Upstream Reading Frame gene is involved in the structure and organization of the nucleoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The SNRPN Upstream Reading Frame Protein gene product is not involved in the organization or structure of the nucleoplasm.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of SNRPN Upstream Reading Frame Protein activity is within the nucleoplasmic anatomy.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The site of SNRPN Upstream Reading Frame Protein function is not within the nucleoplasmic anatomy.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "gene_product_has_biochemical_function": [
+        [
+            "Fc Receptor-Like Protein 5",
+            "Cell Surface Receptor",
+            "gene_product_has_biochemical_function",
+            [
+                "Statement: \": Fc Receptor-Like Protein 5 exhibits a biochemical function as a Cell Surface Receptor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Fc Receptor-Like Protein 5 lacks a biochemical function as a Cell Surface Receptor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Fc Receptor-Like Protein 5 exhibits a biochemical function as a Cell Surface Receptor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Fc Receptor-Like Protein 5 does not possess the biochemical function of a Cell Surface Receptor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in Fc Receptor-Like Protein 5 production may lead to impaired Cell Surface Receptor function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in Fc Receptor-Like Protein 5 expression has no impact on the functional capacity of Cell Surface Receptor.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in Cell Surface Receptor functionality may be attributed to a decline in Fc Receptor-Like Protein 5 production.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The impairment of Cell Surface Receptor function is not a result of diminished synthesis of Fc Receptor-Like Protein 5.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Receptor-Type Tyrosine-Protein Phosphatase R",
+            "Hydrolase",
+            "gene_product_has_biochemical_function",
+            [
+                "Statement: \": Receptor-Type Tyrosine-Protein Phosphatase R possesses enzymatic activity as a Hydrolase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Receptor-Type Tyrosine-Protein Phosphatase R lacks the enzymatic activity of Hydrolase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Receptor-Type Tyrosine-Protein Phosphatase R exhibits a biochemical function of hydrolase activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Receptor-Type Tyrosine-Protein Phosphatase R does not possess hydrolase activity as a biochemical function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in the production of Receptor-Type Tyrosine-Protein Phosphatase R may lead to impaired functionality of Hydrolase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in the synthesis of Protein-Tyrosine Phosphatase Receptor Type does not influence the activity of Hydrolase enzyme.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in Receptor-Type Tyrosine-Protein Phosphatase R production may lead to impaired Hydrolase functionality.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The impaired activity of Hydrolase is not a result of diminished expression of Receptor-Type Tyrosine-Protein Phosphatase R.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Sister Chromatid Cohesion Protein PDS5 Homolog B",
+            "Regulatory Protein",
+            "gene_product_has_biochemical_function",
+            [
+                "Statement: \": PDS5 Homolog B, a Sister Chromatid Cohesion Protein, exhibits a biochemical function as a Sequence-Specific DNA Binding Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": PDS5 Homolog B, a Sister Chromatid Cohesion Protein, lacks the ability to bind DNA in a sequence-specific manner.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Sister Chromatid Cohesion Protein PDS5 Homolog B exhibits the biochemical function of Sequence-Specific DNA Binding Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": PDS5 Homolog B, a Sister Chromatid Cohesion Protein, does not possess the biochemical function of Sequence-Specific DNA Binding Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in the production of Sister Chromatid Cohesion Protein PDS5 Homolog B may lead to impaired functionality of Sequence-Specific DNA Binding Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Reduced expression of PDS5B does not impair the activity of Sequence-Specific DNA Binding Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in the production of Sister Chromatid Cohesion Protein PDS5 Homolog B may lead to impaired functionality of Sequence-Specific DNA Binding Protein.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the production of Sister Chromatid Cohesion Protein PDS5 Homolog B does not lead to a decrease in the functionality of Sequence-Specific DNA Binding Protein.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Proteinase-Activated Receptor 4",
+            "Cell Surface Receptor",
+            "gene_product_has_biochemical_function",
+            [
+                "Statement: \": Proteinase-Activated Receptor 4 possesses a biochemical function of facilitating permeation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Permease activity is not a biochemical function of Proteinase-Activated Receptor 4.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Proteinase-Activated Receptor 4 exhibits a biochemical function known as permease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Proteinase-Activated Receptor 4 does not possess permease activity as a biochemical function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in Proteinase-Activated Receptor 4 production may lead to impaired Permease function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Reduced expression of Proteinase-Activated Receptor 4 has no impact on the functional activity of Permease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in Permease functionality may be attributed to a decline in the production of Proteinase-Activated Receptor 4.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the production of Proteinase-Activated Receptor 4 does not lead to a decrease in the functionality of Permease.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Ephrin Type-B Receptor 3",
+            "Cell Surface Receptor",
+            "gene_product_has_biochemical_function",
+            [
+                "Statement: \": Ephrin Type-B Receptor 3 possesses enzymatic activity as a Helicase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Ephrin Type-B Receptor 3 lacks enzymatic activity as a Helicase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Ephrin Type-B Receptor 3 exhibits a helicase biochemical function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Ephrin Type-B Receptor 3 does not possess helicase activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in Ephrin Type-B Receptor 3 production may lead to impaired Helicase function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in Ephrin Type-B Receptor 3 expression has no impact on Helicase activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in Helicase functionality may result from diminished production of Ephrin Type-B Receptor 3.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The impaired activity of Helicase is not a result of diminished Ephrin Type-B Receptor 3 expression.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ],
+    "gene_product_plays_role_in_biological_process": [
+        [
+            "Glucosylceramidase",
+            "Hydrolysis",
+            "gene_product_plays_role_in_biological_process",
+            [
+                "Statement: \": The enzyme Glucosylceramidase is involved in the biochemical reaction of Hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The enzyme Glucosylceramidase is not involved in the biochemical reaction of Hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product Glucosylceramidase is linked to the biological process of Hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product Glucosylceramidase is not linked to the biological process of Hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in Glucosylceramidase production may have an impact on the Hydrolysis process.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in Glucosylceramidase synthesis has no impact on the Hydrolysis reaction.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Impaired Hydrolysis may be attributed to a decrease in the synthesis of Glucosylceramidase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the production of Glucosylceramidase does not trigger a change in Hydrolysis.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Proteasome Subunit Beta Type-10",
+            "Proteolytic Processing",
+            "gene_product_plays_role_in_biological_process",
+            [
+                "Statement: \": The protein encoded by the Proteasome Subunit Beta Type-10 gene is involved in the biological process of inhibiting the transition from the quiescent to the active cell growth phase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The Proteasome Subunit Beta Type-10 gene product is not involved in the biological process of inhibiting the transition from the G0 to the G1 phase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Inhibition of the biological process transitioning from G0 to G1 phase is linked to the protein product of the Proteasome Subunit Beta Type-10 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Inhibition of the biological process of G0 to G1 Transition is not linked to the protein encoded by the Proteasome Subunit Beta Type-10 gene.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in Proteasome Subunit Beta Type-10 production may impact the Negative Regulation of G0 to G1 Transition process.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Reduced expression of Proteasome Subunit Beta Type-10 has no impact on the inhibition of cell cycle progression from quiescence to interphase.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Impaired Negative Regulation of G0 to G1 Transition may result from decreased synthesis of Proteasome Subunit Beta Type-10.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the production of Proteasome Subunit Beta Type-10 does not lead to a change of Negative Regulation of G0 to G1 Transition.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "T-Cell Leukemia Homeobox Protein 3",
+            "DNA Binding",
+            "gene_product_plays_role_in_biological_process",
+            [
+                "Statement: \": The protein T-Cell Leukemia Homeobox Protein 3 is involved in the biological process of binding to DNA.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": T-Cell Leukemia Homeobox Protein 3 is not involved in the biological process of DNA Binding.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product T-Cell Leukemia Homeobox Protein 3 is linked to the biological process of DNA Binding.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product T-Cell Leukemia Homeobox Protein 3 is not involved in the biological process of DNA Binding.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in the production of T-Cell Leukemia Homeobox Protein 3 may have an impact on the process of DNA Binding.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in the synthesis of T-Cell Leukemia Homeobox Protein 3 has no impact on the mechanism of DNA Binding.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Impaired DNA Binding may result from a decrease in the synthesis of T-Cell Leukemia Homeobox Protein 3.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the production of T-Cell Leukemia Homeobox Protein 3 does not trigger a change in DNA Binding.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Gamma-Aminobutyric Acid Receptor Subunit Alpha-6",
+            "Ion Transport Process",
+            "gene_product_plays_role_in_biological_process",
+            [
+                "Statement: \": The protein encoded by the Gamma-Aminobutyric Acid Receptor Subunit Alpha-6 gene is involved in the regulation of Ion Transport Process.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein encoded by the Gamma-Aminobutyric Acid Receptor Subunit Alpha-6 gene is not involved in the biological process of Ion Transport Process.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product Gamma-Aminobutyric Acid Receptor Subunit Alpha-6 is linked to the biological process of Ion Transport Process.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Gamma-Aminobutyric Acid Receptor Subunit Alpha-6 is not implicated in the biological process of Ion Transport.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A decrease in the production of Gamma-Aminobutyric Acid Receptor Subunit Alpha-6 may have an impact on the process of Ion Transport Process.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in the synthesis of GABRA6 does not influence the mechanism of ion flux regulation.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in the production of Gamma-Aminobutyric Acid Receptor Subunit Alpha-6 may be the underlying cause of impaired Ion Transport Process.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the production of Gamma-Aminobutyric Acid Receptor Subunit Alpha-6 does not trigger a change in the Ion Transport Process.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Probable ATP-Dependent RNA Helicase DDX41",
+            "ATP Hydrolysis",
+            "gene_product_plays_role_in_biological_process",
+            [
+                "Statement: \": The protein encoded by the DDX41 gene, a probable ATP-dependent RNA helicase, is involved in the biological process of ATP hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The protein encoded by the DDX41 gene, a putative ATP-dependent RNA helicase, is not involved in the biological process of ATP hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product Probable ATP-Dependent RNA Helicase DDX41 is linked to the biological process of ATP Hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The gene product Probable ATP-Dependent RNA Helicase DDX41 is not linked to the biological process of ATP Hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A reduction in the production of Probable ATP-Dependent RNA Helicase DDX41 may have an impact on the process of ATP Hydrolysis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Reduced expression of the Probable ATP-Dependent RNA Helicase DDX41 enzyme does not influence the rate of ATP breakdown.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Impaired ATP Hydrolysis may result from decreased synthesis of Probable ATP-Dependent RNA Helicase DDX41.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": The reduction in the production of Probable ATP-Dependent RNA Helicase DDX41 does not trigger a change in ATP Hydrolysis.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "has_physiologic_effect": [
+        [
+            "North American coral snake antivenin",
+            "Passively Acquired Immunity",
+            "has_physiologic_effect",
+            [
+                "Statement: \": North American coral snake antivenin confers Passive Immunity through its physiologic effect.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": North American coral snake antivenom does not confer Passive Immunity through physiological means.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Exposure to North American coral snake antivenin can result in the development of Passively Acquired Immunity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Immunity obtained through passive means is not induced by North American coral snake antivenin.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient receives North American coral snake antivenin, they may experience the physiologic consequence of Temporary Immunity Transfer.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient receiving North American coral snake antivenin does not experience the physiologic consequence of Borrowed Immunity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient exhibits signs of temporary immunity, they may have received North American coral snake antivenin.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual exhibiting the physiologic effect of Passively Acquired Immunity has not received North American coral snake antivenin administration.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "dirithromycin",
+            "Decreased Protein Synthesis",
+            "has_physiologic_effect",
+            [
+                "Statement: \": Dirithromycin exhibits a physiologic effect of enhanced cholinergic tone through increased parasympathetic acetylcholine release.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Dirithromycin lacks the physiological effect of enhancing parasympathetic acetylcholine activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Enhanced vagal tone mediated by acetylcholine release can be triggered by dirithromycin.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Enhanced vagal tone mediated by acetylcholine release is not induced by dirithromycin.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient takes dirithromycin, they may experience enhanced parasympathetic nervous system activity due to increased acetylcholine release.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient receiving dirithromycin treatment will not experience enhanced parasympathetic nervous system activity due to increased acetylcholine release.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient exhibits symptoms of enhanced vagal tone, they may have ingested dirithromycin.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient exhibiting symptoms of heightened vagal tone due to elevated acetylcholine levels is unlikely to have received dirithromycin.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "hyaluronic acid",
+            "Generalized Systemic Effects",
+            "has_physiologic_effect",
+            [
+                "Statement: \": Hyaluronic acid exhibits a physiological effect of enhanced prostaglandin production.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Hyaluronic acid lacks the physiological property of stimulating prostaglandin activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Elevated levels of Prostaglandin can result from the presence of hyaluronic acid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Hyaluronic acid is not a trigger for elevated Prostaglandin Activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient takes hyaluronic acid, he/she may experience an enhancement of prostaglandin-mediated physiological responses.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient receiving hyaluronic acid supplementation does not experience the physiological consequence of elevated Prostaglandin Activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient exhibits symptoms of elevated Prostaglandin levels, it is possible that they have been using hyaluronic acid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient exhibiting symptoms of elevated Prostaglandin Activity is unlikely to have been treated with hyaluronic acid.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Inactivated Hepatitis B Virus Vaccine",
+            "Actively Acquired Immunity",
+            "has_physiologic_effect",
+            [
+                "Statement: \": Inactivated Hepatitis B Virus Vaccine has a physiologic effect of Reduced Mucociliary Clearance.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Inactivated Hepatitis B Virus Vaccine is not associated with a decrease in Respiratory Secretions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Inactivated Hepatitis B Virus Vaccine can lead to a reduction in Respiratory Secretions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Inactivated Hepatitis B Virus Vaccine is not a contributing factor to Reduced Respiratory Mucous Production.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient receives Inactivated Hepatitis B Virus Vaccine, they may experience a physiological response of Reduced Mucous Production.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient receiving Inactivated Hepatitis B Virus Vaccine is not associated with a decrease in Respiratory Secretions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient experiences a decrease in respiratory secretions, it is possible that they have received the Inactivated Hepatitis B Virus Vaccine.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient experiencing reduced respiratory mucus production is unlikely to have received the Inactivated Hepatitis B Virus Vaccine.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "cobalamin concentrate",
+            "Cellular Activity Alteration",
+            "has_physiologic_effect",
+            [
+                "Statement: \": Cobalamin concentrate exhibits a biological impact on modifying cellular function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Cobalamin concentrate lacks the ability to modulate cellular function or alter cellular behavior.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Cobalamin concentrate has the potential to induce changes in cellular activity.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Cobalamin concentrate is not a contributing factor to Cellular Activity Alteration.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient receives cobalamin supplementation, they may experience a physiological response of altered cellular function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient receiving cobalamin supplementation does not experience a biological response of altered cellular function.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient exhibits symptoms of altered cellular function, it is possible that they have ingested cobalamin concentrate.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient exhibiting altered cellular activity is unlikely to have received cobalamin supplementation.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "may_prevent": [
+        [
+            "josamycin propionate",
+            "Bacterial Infections",
+            "may_prevent",
+            [
+                "Statement: \": Josamycin propionate has the potential to inhibit the development of bacterial infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Josamycin propionate lacks the capacity to prevent Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Josamycin propionate may offer protection against bacterial infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Josamycin propionate is ineffective in preventing Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": By taking josamycin propionate, a patient can protect themselves against the development of Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of josamycin propionate does not provide protection against Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": To avoid contracting Bacterial Infections, a patient should consider taking josamycin propionate.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient seeking to prevent Bacterial Infections can avoid taking josamycin propionate.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "ceftolozane sulfate",
+            "Bacterial Infections",
+            "may_prevent",
+            [
+                "Statement: \": Ceftolozane sulfate has the potential to inhibit the development of bacterial infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Ceftolozane sulfate lacks the ability to prevent Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Ceftolozane sulfate may offer protection against bacterial infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Ceftolozane sulfate is ineffective in preventing Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of ceftolozane sulfate can help a patient avoid contracting Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of ceftolozane sulfate does not provide protection against Bacterial Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": To avoid contracting Bacterial Infections, a patient should consider taking ceftolozane sulfate.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient seeking to avoid Bacterial Infections does not require treatment with ceftolozane sulfate.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "lovastatin",
+            "Coronary Artery Disease",
+            "may_prevent",
+            [
+                "Statement: \": Lovastatin may possess the potential to inhibit the development of diarrhea.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Lovastatin lacks the capacity to prevent diarrhea.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Lovastatin may have a preventive effect on diarrhea.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Lovastatin does not have the ability to prevent diarrhea.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Taking lovastatin can help a patient avoid experiencing diarrhea.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Lovastatin use does not provide protection against Diarrhea.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": To avoid Diarrhea, a patient should consider taking lovastatin.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient seeking to avoid Diarrhea does not require lovastatin treatment.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "dihydroergocryptine",
+            "Postpartum Hemorrhage",
+            "may_prevent",
+            [
+                "Statement: \": Dihydroergocryptine may have the potential to avert Postpartum Hemorrhage.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Dihydroergocryptine lacks the capacity to prevent Postpartum Hemorrhage.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Dihydroergocryptine may have a preventive effect on Postpartum Hemorrhage.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Dihydroergocryptine is ineffective in preventing Postpartum Hemorrhage.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of dihydroergocryptine to a patient can help prevent the occurrence of Postpartum Hemorrhage.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of dihydroergocryptine does not exert a preventive influence on Postpartum Hemorrhage.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": To minimize the risk of Postpartum Hemorrhage, a patient should consider taking dihydroergocryptine.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient seeking to avoid Postpartum Hemorrhage does not require dihydroergocryptine treatment.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "hepatitis B virus",
+            "Hepatitis B",
+            "may_prevent",
+            [
+                "Statement: \": Infection with hepatitis B virus may confer immunity against Hepatitis B.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Hepatitis B cannot be prevented by the hepatitis B virus.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Hepatitis B can be protected against by the hepatitis B vaccine.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Hepatitis B is not preventable by the hepatitis B virus itself.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual contracts the hepatitis B virus, they can avoid developing Hepatitis B.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Having hepatitis B virus does not provide immunity to Hepatitis B.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": To avoid contracting Hepatitis B, an individual should receive the hepatitis B vaccine.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A person seeking to avoid Hepatitis B infection has no requirement to receive the hepatitis B virus.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "may_treat": [
+        [
+            "floxacillin",
+            "Bacterial Infections",
+            "may_treat",
+            [
+                "Statement: \": Flucloxacillin may be effective in managing high blood pressure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Flucloxacillin lacks efficacy in managing high blood pressure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Floxacillin may be used to treat hypertension.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Floxacillin is ineffective in the treatment of hypertension.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient takes flucloxacillin, he/she cannot treat Hypertension.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of floxacillin does not have a therapeutic impact on hypertension management.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If an individual is diagnosed with high blood pressure, they should be prescribed amoxicillin.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with high blood pressure does not require treatment with floxacillin.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "pamidronate",
+            "Hypercalcemia",
+            "may_treat",
+            [
+                "Statement: \": Pamidronate may have therapeutic potential for Tardive Dyskinesia management.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Pamidronate lacks efficacy in the management of Tardive Dyskinesia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Pamidronate may be used to treat Tardive Dyskinesia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Pamidronate is ineffective in the treatment of Tardive Dyskinesia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of pamidronate can be an effective way for a patient to manage Tardive Dyskinesia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of pamidronate does not yield any therapeutic benefit for Tardive Dyskinesia.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": In the presence of Tardive Dyskinesia, administration of pamidronate is recommended for the patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Tardive Dyskinesia does not require pamidronate treatment.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "tertatolol hydrochloride",
+            "Hypertension",
+            "may_treat",
+            [
+                "Statement: \": Tertatolol hydrochloride may be effective in managing high blood pressure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Tertatolol hydrochloride lacks the ability to manage high blood pressure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Tertatolol hydrochloride can be used to manage high blood pressure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Tertatolol hydrochloride is ineffective in the treatment of hypertension.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Tertatolol hydrochloride administration enables patients to manage High Blood Pressure.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of tertatolol hydrochloride does not produce any therapeutic benefit for Hypertension.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": In cases where a patient is diagnosed with high blood pressure, treatment with tertatolol hydrochloride is recommended.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual diagnosed with high blood pressure does not require tertatolol hydrochloride treatment.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "clavulanic acid",
+            "Haemophilus Infections",
+            "may_treat",
+            [
+                "Statement: \": Clavulanic acid may be effective against Haemophilus infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Clavulanic acid lacks efficacy against Haemophilus infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Clavulanic acid may be used to treat Haemophilus Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Clavulanic acid is ineffective against Haemophilus Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of clavulanic acid enables patients to combat Haemophilus infections effectively.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of clavulanic acid does not provide any therapeutic benefit in the management of Haemophilus infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": In the event of a Haemophilus infection, treatment with clavulanic acid is recommended for the patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A person diagnosed with Haemophilus Infections does not require clavulanic acid treatment.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "nitroxoline",
+            "Urinary Tract Infections",
+            "may_treat",
+            [
+                "Statement: \": Nitroxoline may be effective in managing Urinary Tract Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Nitroxoline lacks efficacy in the treatment of Urinary Tract Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Nitroxoline may be used to treat Urinary Tract Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Nitroxoline is ineffective in the treatment of Urinary Tract Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of nitroxoline enables patients to combat Urinary Tract Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Administration of nitroxoline does not provide any therapeutic benefit in the management of Urinary Tract Infections.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": In the event of Urinary Tract Infections, nitroxoline is a recommended treatment option for the patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": An individual afflicted with Urinary Tract Infections does not require nitroxoline treatment.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ]
+    ],
+    "occurs_after": [
+        [
+            "Allergy to magnesium trisilicate",
+            "Allergic sensitization",
+            "occurs_after",
+            [
+                "Statement: \": Sensitivity to magnesium trisilicate develops following an allergic reaction.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Magnesium trisilicate allergy is not a consequence of allergic sensitization.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Magnesium trisilicate allergy can be preceded by allergic sensitization.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Magnesium trisilicate allergy must precede allergic sensitization.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient develops an allergy to magnesium trisilicate, they may experience allergic sensitization beforehand.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient will not develop allergic sensitization prior to experiencing an allergy to magnesium trisilicate.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Following allergic sensitization, a patient may subsequently develop an allergy to magnesium trisilicate.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient allergic to magnesium trisilicate will not develop subsequent allergic sensitization.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F"
+            ]
+        ],
+        [
+            "Post-herpetic neuritis",
+            "Herpes zoster",
+            "occurs_after",
+            [
+                "Statement: \": Sepsis can trigger the development of post-herpetic neuritis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Sepsis is not a precursor to the development of post-herpetic neuritis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Post-herpetic neuritis can be preceded by sepsis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Post-herpetic neuritis must precede the development of sepsis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient develops Post-herpetic neuritis, they may experience Sepsis beforehand.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with Post-herpetic neuritis is unlikely to develop Sepsis beforehand.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Following the development of Sepsis, a patient is at risk of subsequently experiencing Post-herpetic neuritis.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with Post-herpetic neuritis is unlikely to develop Sepsis subsequently.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Allergy to acetic acid",
+            "Allergic sensitization",
+            "occurs_after",
+            [
+                "Statement: \": Development of an allergy to acetic acid is preceded by inflammatory disease of the central nervous system.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Inflammatory disease of the central nervous system does not trigger an allergy to acetic acid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Central nervous system inflammation can precede the development of an allergy to acetic acid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Acetic acid allergy must precede any instance of central nervous system inflammatory disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a patient is allergic to acetic acid, they may develop an inflammatory condition affecting the central nervous system beforehand.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient allergic to acetic acid is unlikely to develop an inflammatory disease of the central nervous system initially.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Following the development of an inflammatory disease of the central nervous system, a patient may subsequently experience an allergic reaction to acetic acid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient allergic to acetic acid is unlikely to develop an inflammatory disease of the central nervous system subsequently.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Allergy to dialysis fluid",
+            "Procedure",
+            "occurs_after",
+            [
+                "Statement: \": Exposure to dialysis fluid can trigger an allergic reaction in individuals who have previously experienced child abuse.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Child abuse does not precede an allergy to dialysis fluid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Child maltreatment can precede an allergic reaction to dialysis fluid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Child maltreatment is not a possibility prior to an allergic reaction to dialysis fluid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A history of child abuse may precede the development of an allergy to dialysis fluid in a patient.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A history of child abuse is not a precursor to a patient developing an allergy to dialysis fluid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": If a victim of child abuse is identified, they may subsequently develop an allergy to dialysis fluid.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient with an allergy to dialysis fluid is not at risk of experiencing child abuse subsequently.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ],
+        [
+            "Acute disseminated encephalomyelitis following infectious disease",
+            "Disorder due to infection",
+            "occurs_after",
+            [
+                "Statement: \": Postoperative corneal surgery can trigger acute disseminated encephalomyelitis in individuals who have recently had an infectious disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Post-infectious acute disseminated encephalomyelitis is not a complication of corneal surgical interventions.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Surgical intervention on the cornea may precede the onset of Acute disseminated encephalomyelitis subsequent to an infectious disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Surgical intervention on the cornea must be delayed until after the resolution of Acute disseminated encephalomyelitis resulting from infectious disease.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Following an infectious disease, a patient who develops Acute disseminated encephalomyelitis may undergo a corneal surgical procedure prior to that.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient who develops Acute disseminated encephalomyelitis after an infectious disease is not a candidate for corneal surgery beforehand.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": Following a surgical procedure on the cornea, a patient may be at risk of developing Acute disseminated encephalomyelitis as a complication of a subsequent infection.\", is the statement above true or false\\? Please answer true/false.",
+                "Statement: \": A patient who develops Acute disseminated encephalomyelitis as a complication of an infectious disease is not a candidate for corneal surgery afterwards.\", is the statement above true or false\\? Please answer true/false."
+            ],
+            [
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T",
+                "F",
+                "T"
+            ]
+        ]
+    ]
+}
