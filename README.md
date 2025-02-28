@@ -30,7 +30,7 @@ You should replace `model_name` and `model_path` with the LLM you choose as the 
 ## Evaluation
 To run evaluation based on the generated dataset, run
 ```
-    python eval_medlama.py --model [model_path] --model_name [model_name] --num_cuda [NUM_GPUS]
+python eval_medlama.py --model [model_path] --model_name [model_name] --num_cuda [NUM_GPUS]
 ```
 where `[model_path]` and `[model_name]` are the path and name of your evaluated LLM. `[NUM_GPUS]` is the number of GPUs you choose to use for evaluation.
 ## Results Parsing and Scoring
